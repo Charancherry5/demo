@@ -1,6 +1,6 @@
 # demo
 this is my first git repo
 <br>
-Author - charan
-<br>
-place - india
+Author - charan cherry
+
+
